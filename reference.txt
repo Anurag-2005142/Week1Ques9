@@ -1,0 +1,4 @@
+ References for BLDC Motor
+1. K. Ogata, Modem Control Engineering. Upper Saddle River, NJ: Prentice Hall,2009
+2. P. Krause, O. Wasynczuk, and S. Sudhoff, Analysis of electric machinery and drive systems. Wiley Online Library, 2013
+3. https://www.youtube.com/watch?v=4JDO-q7RA0E&t=10s&ab_channel=TheUrbanScholar
